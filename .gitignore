@@ -31,3 +31,20 @@
 *.exe
 *.out
 *.app
+
+# Misc
+*.suo
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.ilk
+*.pdb
+*.csv
+*.recipe
+*.log
+*.tlog
+*.ipdb
+*.iobj
+*.lastbuildstate
+*.idb
