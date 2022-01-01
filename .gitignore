@@ -48,3 +48,6 @@
 *.iobj
 *.lastbuildstate
 *.idb
+
+# Build folder
+build/
